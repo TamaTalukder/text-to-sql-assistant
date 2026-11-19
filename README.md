@@ -2,7 +2,7 @@
 
 Ask a business question in plain English and get the answer from a database. The app turns the question into SQL, checks the SQL for safety, runs it, and explains the result in plain language.
 
-**Live demo:** [add your Streamlit link here]
+**Live demo:** [https://text-to-sql-assistant-abqmpyezz4qbb3gdapucga.streamlit.app/]
 
 ## Why I built this
 
